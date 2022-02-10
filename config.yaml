@@ -1,0 +1,15 @@
+basedb:
+  url: 10.0.3.206
+  port: 3306
+  username: lhsoft
+  password: Lihero18!8
+
+destdb:
+  url: 127.0.0.1
+  port: 3307
+  username: user
+  password: password
+
+compare_dbs: 
+  - lh_cloud_hand
+  
